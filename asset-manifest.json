@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lolaandpickle/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lolaandpickle/static/js/main.9c410ce5.chunk.js",
+    "main.js.map": "/lolaandpickle/static/js/main.9c410ce5.chunk.js.map",
+    "runtime-main.js": "/lolaandpickle/static/js/runtime-main.91513412.js",
+    "runtime-main.js.map": "/lolaandpickle/static/js/runtime-main.91513412.js.map",
+    "static/js/2.b1b95382.chunk.js": "/lolaandpickle/static/js/2.b1b95382.chunk.js",
+    "static/js/2.b1b95382.chunk.js.map": "/lolaandpickle/static/js/2.b1b95382.chunk.js.map",
+    "static/js/3.c5145189.chunk.js": "/lolaandpickle/static/js/3.c5145189.chunk.js",
+    "static/js/3.c5145189.chunk.js.map": "/lolaandpickle/static/js/3.c5145189.chunk.js.map",
+    "index.html": "/lolaandpickle/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lolaandpickle/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b1b95382.chunk.js.LICENSE.txt": "/lolaandpickle/static/js/2.b1b95382.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/lolaandpickle/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91513412.js",
+    "static/js/2.b1b95382.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9c410ce5.chunk.js"
+  ]
+}
